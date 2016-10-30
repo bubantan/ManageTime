@@ -21,6 +21,7 @@ namespace ManageTime
         {
             string txt = "Hello";
             string txt2 = " How are you ?";
+            string txt3 = " I'm fine. Thank you! ";
             richTextBox1.Text = txt + txt2;
 
         }
