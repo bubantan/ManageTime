@@ -20,7 +20,8 @@ namespace ManageTime
         private void button1_Click(object sender, EventArgs e)
         {
             string txt = "Hello";
-            richTextBox1.Text = txt;
+            string txt2 = " How are you ?";
+            richTextBox1.Text = txt + txt2;
 
         }
     }

@@ -7,3 +7,12 @@ c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\ob
 c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.csproj.GenerateResource.Cache
 c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.exe
 c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.pdb
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\bin\Debug\ManageTime.exe.config
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.exe
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.pdb
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\bin\Debug\ManageTime.exe
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\bin\Debug\ManageTime.pdb
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.csprojResolveAssemblyReference.cache
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.Form1.resources
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.Properties.Resources.resources
+D:\Document\Book\learnJenkin\JenkinsProjects\ManageTime\ManageTime\obj\Debug\ManageTime.csproj.GenerateResource.Cache
