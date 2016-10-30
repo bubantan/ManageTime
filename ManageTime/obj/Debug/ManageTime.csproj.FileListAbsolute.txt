@@ -1,0 +1,9 @@
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\bin\Debug\ManageTime.exe.config
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\bin\Debug\ManageTime.exe
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\bin\Debug\ManageTime.pdb
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.csprojResolveAssemblyReference.cache
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.Form1.resources
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.Properties.Resources.resources
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.csproj.GenerateResource.Cache
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.exe
+c:\users\japanese\documents\visual studio 2013\Projects\ManageTime\ManageTime\obj\Debug\ManageTime.pdb
