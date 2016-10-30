@@ -22,7 +22,8 @@ namespace ManageTime
             string txt = "Hello";
             string txt2 = " How are you ?";
             string txt3 = " I'm fine. Thank you! ";
-            string txt4 = " I love you, Natalia!";
+            string txt4 = " I love you, Natalia Natchan!";
+            string txt5 = " I love you, Heidi!";
             richTextBox1.Text = txt + txt2 + txt3;
 
         }
